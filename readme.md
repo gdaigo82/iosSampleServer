@@ -1,8 +1,8 @@
 【Swift3.0】【Xcode8】【iOS10】 Swift3でなんちゃってHTTPサーバを作ってみました。
 ====
 
-詳細はQiitaに書かせていただきます（以下は嘘アドレスです・・）
-http://qiita.com/GDaigo/items/7392d12a5fe6f2e18846
+詳細はQiitaに書かせていただきました。
+http://qiita.com/GDaigo/items/c2358ef2441c6fc61020
 
 ## 主なライセンス
 
